@@ -1,4 +1,4 @@
-roduct Classification using GraphSAGE on Amazon Computers
+Product Classification using GraphSAGE on Amazon Computers
 This project implements a Graph Neural Network (GNN) to solve a multi-class classification problem on a medium-scale e-commerce dataset. The goal is to predict the category of a product based on its features and its relationship with other frequently co-purchased items.
 
 🚀 The Real-World Problem
